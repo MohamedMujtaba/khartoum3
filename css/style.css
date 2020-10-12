@@ -136,9 +136,11 @@ header .into h1 {
   margin-bottom: 40px;
 }
 #my-form {
+  height: 20%;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+  text-align: center;
 }
 
 footer {
